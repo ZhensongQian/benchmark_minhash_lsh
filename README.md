@@ -1,4 +1,4 @@
-# need to try this? 
+# worth to try this? compare with Spark's implementation?
 
 # Benchmark MinHash+LSH algorithm on Spark
 * Insight Data Engineering Fellow Project
